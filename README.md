@@ -1,11 +1,13 @@
 # Traversal-Algorithms
 This is a repo containing a java program that has depth first search and breath first search for node traversal. This was written in Spring of 2021.
 
+## How to use: Download the [source code](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS/blob/main/SortingAlgorithms.java) from the repository and execute it via the command line.
+
 ## How it works:
 
-This program reads a matrix.txt file and constructs an adjacent list construct by reading a letter header for its first row and each column under each letter is a set of designations for node adjacencies. A node iterator is created to create this adjacency node structure, and that structure is passed into the breath-first search algorithm and the depth-first search algorithm and the results from both are printed out.
+This program reads a [matrix.txt](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS/blob/main/matrix.txt) file and constructs an adjacent list construct by reading a letter header for its first row and each column under each letter is a set of designations for node adjacencies. A node iterator is created to create this adjacency node structure, and that structure is passed into the breath-first search algorithm and the depth-first search algorithm and the results from both are printed out.
 
-The file being read (matrix.txt):
+The file being read ([matrix.txt](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS/blob/main/matrix.txt)):
     
     A B C D E F G
     5 4 1 4 0 4 5
