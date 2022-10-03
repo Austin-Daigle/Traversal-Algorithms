@@ -1,7 +1,8 @@
 # Traversal-Algorithms
 This is a repo containing a java program that has depth first search and breath first search for node traversal. This was written in Spring of 2021.
 
-## How to use: Download the [source code](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS/blob/main/SortingAlgorithms.java) from the repository and execute it via the command line.
+## How to use:
+Download the [source code](https://github.com/Austin-Daigle/Traversal-Algorithms-BFS-DFS/blob/main/SortingAlgorithms.java) from the repository and execute it via the command line.
 
 ## How it works:
 
